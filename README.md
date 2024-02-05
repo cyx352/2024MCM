@@ -82,3 +82,10 @@ $$
 $$
 \Phi(x;\theta)=\sum_{i=0}^{n-1} M(i)+\theta_1\cdot if\_server(i)*quality(i)+\theta_2\cdot quality(i)
 $$
+
+
+
+
+end_game：一局比赛结束，通常意味着休息等
+
+game_point：
